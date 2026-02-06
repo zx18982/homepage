@@ -33,5 +33,30 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "技术文档",
+    "link": "https://docs.imsyy.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "图床",
+    "link": "https://img.imsyy.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "视频",
+    "link": "https://video.imsyy.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航站",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "工具箱",
+    "link": "https://tools.imsyy.top/"
   }
 ]

@@ -22,11 +22,7 @@
       <SwiperSlide v-for="site in siteLinksList" :key="site">
         <el-row class="link-all" :gutter="20">
           <el-col v-for="(item, index) in site" :span="8" :key="item">
-            <div
-              class="item cards"
-              :style="index < 3 ? 'margin-bottom: 20px' : null"
-              @click="jumpLink(item)"
-            >
+            <div class="item cards" @click="jumpLink(item)">
               <Icon size="26">
                 <component :is="siteIcon[item.icon]" />
               </Icon>
@@ -51,11 +47,11 @@ import siteLinks from "@/assets/siteLinks.json";
 
 const store = mainStore();
 
-// 计算网站链接
+// 计算网站链接 - 每排 3 个
 const siteLinksList = computed(() => {
   const result = [];
-  for (let i = 0; i < siteLinks.length; i += 6) {
-    const subArr = siteLinks.slice(i, i + 6);
+  for (let i = 0; i < siteLinks.length; i += 3) {
+    const subArr = siteLinks.slice(i, i + 3);
     result.push(subArr);
   }
   return result;
@@ -132,7 +128,7 @@ onMounted(() => {
     }
   }
   .link-all {
-    height: 220px;
+    height: 120px;
     .item {
       height: 100px;
       width: 100%;
