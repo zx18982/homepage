@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Notification",
+    "url": "https://notification.eooce.xx.kg",
+    "icon": "https://img.icons8.com/ios-filled/150/228BE6/reminders.png",
+    "category": "Home"
+  },
+  {
+    "name": "Youtube",
+    "url": "https://www.youtube.com",
+    "icon": "https://img.icons8.com/ios-filled/100/ff1d06/youtube-play.png",
+    "category": "Home"
+  },
+  {
+    "name": "Gmail",
+    "url": "https://mail.google.com",
+    "icon": "https://img.icons8.com/fluency/48/gmail-new.png",
+    "category": "Home"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "icon": "https://img.icons8.com/ios-filled/50/github.png",
+    "category": "Home"
+  },
+  {
+    "name": "ip.sb",
+    "url": "https://ip.ssss.nyc.mn",
+    "icon": "https://ip.sb/favicon-32x32.png",
+    "category": "Home"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://dash.cloudflare.com",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png",
+    "category": "Home"
+  },
+  {
+    "name": "指纹浏览器",
+    "url": "https://www.adspower.net/share/laowang",
+    "icon": "https://www.adspower.net/favicon.svg",
+    "category": "Home"
+  },
+  {
+    "name": "Huggingface",
+    "url": "https://huggingface.co",
+    "icon": "https://img.icons8.com/fluency/48/hugging-face_app.png",
+    "category": "Home"
+  },
+  {
+    "name": "ITDOG - 在线ping",
+    "url": "https://www.itdog.cn/tcping",
+    "icon": "https://www.itdog.cn/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "Ping0",
+    "url": "https://ping0.cc",
+    "icon": "https://ping0.cc/favico.ico",
+    "category": "Home"
+  },
+  {
+    "name": "浏览器指纹",
+    "url": "https://www.browserscan.net/zh",
+    "icon": "https://www.browserscan.net/favicon-32x32.png",
+    "category": "Home"
+  },
+  {
+    "name": "nezha面板",
+    "url": "https://ssss.nyc.mn",
+    "icon": "https://nezha.wiki/logo.png",
+    "category": "Home"
+  },
+  {
+    "name": "Api测试",
+    "url": "https://hoppscotch.io",
+    "icon": "https://hoppscotch.io/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "域名检查",
+    "url": "https://who.cx",
+    "icon": "https://who.cx/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "域名比价",
+    "url": "https://www.nazhumi.com",
+    "icon": "https://www.nazhumi.com/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "NodeSeek",
+    "url": "https://www.nodeseek.com",
+    "icon": "https://www.nodeseek.com/static/image/favicon/favicon-32x32.png",
+    "category": "Home"
+  },
+  {
+    "name": "Linux do",
+    "url": "https://linux.do",
+    "icon": "https://linux.do/uploads/default/optimized/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994_2_32x32.png",
+    "category": "Home"
+  },
+  {
+    "name": "在线音乐",
+    "url": "https://music.eooce.com",
+    "icon": "https://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg",
+    "category": "Home"
+  },
+  {
+    "name": "Nodeloc",
+    "url": "https://www.nodeloc.com",
+    "icon": "https://s.rmimg.com/optimized/1X/660236e67b776cefea8b2df2276659af2f4eda2a_2_32x32.png",
+    "category": "Home"
+  },
+  {
+    "name": "Moontv",
+    "url": "https://moontv.cfapps.jp10.hana.ondemand.com",
+    "icon": "https://moontv.cfapps.jp10.hana.ondemand.com/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "订阅转换",
+    "url": "https://sublink.eooce.com",
+    "icon": "https://img.icons8.com/color/96/link--v1.png",
+    "category": "Home"
+  },
+  {
+    "name": "webssh",
+    "url": "https://ssh.eooce.com",
+    "icon": "https://img.icons8.com/fluency/240/ssh.png",
+    "category": "Home"
+  },
+  {
+    "name": "文件快递柜",
+    "url": "https://filebox.nnuu.nyc.mn",
+    "icon": "https://img.icons8.com/nolan/256/document.png",
+    "category": "Home"
+  },
+  {
+    "name": "真实地址生成",
+    "url": "https://address.nnuu.nyc.mn",
+    "icon": "https://static11.meiguodizhi.com/favicon.ico",
+    "category": "Home"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "icon": "https://img.icons8.com/ios/100/FFFFFF/chatgpt.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "icon": "https://img.icons8.com/fluency/240/claude-ai.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Deepseek",
+    "url": "https://www.deepseek.com",
+    "icon": "https://cdn.deepseek.com/chat/icon.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "阿里千问",
+    "url": "https://chat.qwenlm.ai",
+    "icon": "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.11/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Kimi",
+    "url": "https://www.kimi.com",
+    "icon": "https://www.kimi.com/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "问小白",
+    "url": "https://www.wenxiaobai.com/chat",
+    "icon": "https://wy-static.wenxiaobai.com/wenxiaobai-web/production/3.12.14/_next/static/media/new_favicon.6d31cfe4.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Genspark",
+    "url": "https://www.genspark.ai/agents?type=moa_chat",
+    "icon": "https://www.genspark.ai/agents?type=moa_chat/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "AkashChat",
+    "url": "https://chat.akash.network",
+    "icon": "https://chat.akash.network/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "V0",
+    "url": "https://v0.dev/chat",
+    "icon": "https://v0.dev/assets/icon-light-32x32.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Same",
+    "url": "https://same.new",
+    "icon": "https://same.new/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "响指HaiSnap",
+    "url": "https://www.haisnap.com",
+    "icon": "https://www.haisnap.com/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Readdy",
+    "url": "https://readdy.ai",
+    "icon": "https://static.readdy.ai/web/favicon-180.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Openrouter",
+    "url": "https://openrouter.ai",
+    "icon": "https://openrouter.ai/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Manus",
+    "url": "https://manus.im",
+    "icon": "https://manus.im/icon.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai",
+    "icon": "https://www.perplexity.ai/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.com",
+    "icon": "https://img.icons8.com/ios-filled/50/grok.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Copilot",
+    "url": "https://copilot.microsoft.com",
+    "icon": "https://copilot.microsoft.com/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "豆包",
+    "url": "https://www.doubao.com/chat/",
+    "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "文心一言",
+    "url": "https://yiyan.baidu.com",
+    "icon": "https://eb-static.cdn.bcebos.com/logo/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Jules",
+    "url": "https://jules.google.com",
+    "icon": "https://www.gstatic.com/labs-code/code-app/favicon-48x48.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "硅基流动",
+    "url": "https://cloud.siliconflow.cn",
+    "icon": "https://cloud.siliconflow.cn/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Kilo Code",
+    "url": "https://www.kilocode.ai",
+    "icon": "https://www.kilocode.ai/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Cursor",
+    "url": "https://cursor.com",
+    "icon": "https://cursor.com/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Ai一键换脸",
+    "url": "https://imgai.ai/zh",
+    "icon": "https://imgai.ai/zh/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Aippt",
+    "url": "https://www.aippt.cn",
+    "icon": "https://www.aippt.cn/_nuxt/highlight-2.Bb1q-DtW.webp",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Ai照片修复",
+    "url": "https://picwish.cn/photo-enhancer",
+    "icon": "https://qncdn.aoscdn.com/astro/picwish/_astro/favicon@30w.61721eae.png",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Bolt",
+    "url": "https://bolt.new",
+    "icon": "https://bolt.new/static/favicon.svg",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Llamacoder",
+    "url": "https://llamacoder.together.ai",
+    "icon": "https://llamacoder.together.ai/favicon.ico",
+    "category": "Ai-stuff"
+  },
+  {
+    "name": "Codia",
+    "url": "https://codia.ai",
+    "icon": "https://codia.ai/favicon.ico",
+    "category": "Ai-stuff"
+  }
+]
